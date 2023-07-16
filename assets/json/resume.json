@@ -1,77 +1,78 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Leif Simmatis",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "firstname.lastname@uhn.ca",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "summary": "Digital health researcher with a background in systems neuroscience.",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/leif-simmatis"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "University of Toronto",
+      "position": "Postdoctoral researcher",
+      "url": "https://slp.utoronto.ca/faculty/yana-yunusova/speech-production-lab/",
+      "startDate": "2020-09-01",
+      "endDate": "Current",
+      "summary": "Developed digital speech biomarkers for neurological diseases. Led development and validation of novel real-world speech data collection tools.",
       "highlights": [
-        "Relativity"
+        "Digital health",
+        "Speech",
+        "Multimodal AI"
+      ]
+    },
+    {
+      "name": "Winterlight Labs",
+      "position": "Intern",
+      "url": "https://winterlightlabs.com/",
+      "startDate": "2022-03-01",
+      "endDate": "Current",
+      "summary": "Led validation of speech assessment app in ALS.",
+      "highlights": [
+        "Digital health",
+        "Speech",
+        "Acoustic analysis"
       ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "institution": "UHN postdoc association",
+      "url": "https://www.linkedin.com/in/uhnpostdocs/?originalSubdomain=ca",
+      "startDate": "2021-09-01",
+      "endDate": "Current"
+    },
+    {
+      "institution": "ISCTM",
+      "url": "https://isctm.org/",
+      "startDate": "2023-02-01",
+      "endDate": "Current"
+    }
+  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Queen's University, Kingston, Ontario, Canada",
+      "url": "https://www.queensu.ca/limb/",
+      "area": "Neuroscience",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "startDate": "2016-01-01",
+      "endDate": "2020-08-31"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Mitacs Elevate Fellowship",
+      "date": "2022-03-01",
+      "awarder": "Mitacs",
+      "summary": "Awarded $120,000 CAD to lead partnership between Speech Production Lab and Winterlight Labs to validate Winterlight's speech assessment technology in ALS patients.'"
     }
   ],
-  "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
-  "interests": [],
-  "references": [],
   "projects": []
 }
