@@ -1,11 +1,17 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Analytical and clinical validation of tablet-based speech assessment app
+description: Detecting and stratifying ALS using acoustic analysis
 importance: 2
 category: work
 ---
+
+As part of ongoing efforts to develop new therapeutics for neurological diseases, there is an unmet need to detect and stratify patients who are at risk of deterioration, or are of varying disease severities. Our collaborator, Winterlight Labs, designed a tablet-based speech and language assessment system that has been used in various neurological/psychiatric indications for disease detection and tracking. We formed a partnership in 2022 as part of a [Mitacs Elevate](https://www.mitacs.ca/en/programs/elevate) postdoctoral fellowship, with the aim of validating Winterlight's technology in ALS patients. This project will facilitate the development of acoustic speech-based biomarkers for ALS, and will potentially enable future incorporation of cognitive assessment to further differentiate ALS disease subtypes. 
+
+<!--
+
+img: assets/img/3.jpg
+related_publications: simmatis2023analytical, simmatis2022reliability
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -78,3 +84,5 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+
+-->
