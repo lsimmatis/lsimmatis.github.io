@@ -1,19 +1,9 @@
 ---
 layout: page
-<<<<<<< HEAD
-title: Cove Neurosciences
-description: Building analytical methods for extracting brain connectivity biomarkers from EEG 
-importance: 4
-category: work
-related_publications: 
----
-
-As Head of Neuroscience at [Cove Neuro](https://coveneuro.com), I am responsible for forming partnerships with industry and academic groups. The objective of this work is to facilitate the measurement of drug effects in trials of novel therapeutics, the enabling of connectivity analysis for hardware vendors, and the advancement of brain science through university collaborations.
-=======
-title: project 4
-description: another without an image
+title: project 6
+description: a project with no image
 img:
-importance: 3
+importance: 4
 category: fun
 ---
 
@@ -88,4 +78,3 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
->>>>>>> parent of d292461 (Update CV, clean out extra pages)
