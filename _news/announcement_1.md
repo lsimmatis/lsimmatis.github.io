@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My webpage is now live! Have a look around and feel free to get in touch
-
+My webpage is now live!
