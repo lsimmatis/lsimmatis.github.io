@@ -5,12 +5,5 @@ inline: true
 related_posts: false
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 My webpage is now live! Have a look around and feel free to get in touch
-=======
-A simple inline announcement.
->>>>>>> parent of 0c32d6a (Change announcements, housekeeping)
-=======
-A simple inline announcement.
->>>>>>> parent of 0c32d6a (Change announcements, housekeeping)
+
