@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A post with bibliography
+title: Conference acceptance
 date: 2023-07-17 10:39:00-0400
-description: an example of a blog post with bibliography
+description: Accepted to ASHA 2023
 tags: formatting bib
 categories: sample-posts
 giscus_comments: true

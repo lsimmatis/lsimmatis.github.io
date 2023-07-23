@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-<p><a href='#'>University of Toronto, University Health Network</a>.</p>
+<p>University of Toronto, University Health Network.</p>
 
 profile:
   align: left
