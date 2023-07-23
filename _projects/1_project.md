@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Development of a novel web-based speech assessment app
+title: Development of a web-based multimodal speech assessment app
 description: A new multimodal assessment of speech in neurological diseases
 importance: 1
 category: work
