@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-<p><a href='#'>University of Toronto, University Health Network</a>.</p> 
-<p>leif.simmatis@uhn.ca</p>
+<p><a href='#'>University of Toronto, University Health Network</a>.</p>
 
 profile:
   align: left
