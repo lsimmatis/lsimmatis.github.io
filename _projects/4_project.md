@@ -8,7 +8,7 @@ category: work
 
 Starting in May 2022, I took on the role of Head of Neuroscience at [Cove Neuro](https://coveneuro.com), where I am responsible for leading collaborations with academia and industry partners (such as our [recent induction into the SUDEP Alliance](https://www.wate.com/business/press-releases/ein-presswire/642146228/the-sudep-data-alliance-welcomes-cove-neurosciences/)). I lead a fantastic team of neuroscience researchers and research assistants, and collaborate with the data science and engineering team as well as the executive team to plan projects, setup timelines, and prepare deliverables.
 
-<!--
+<!---
 
 img: assets/img/3.jpg
 related_publications: simmatis2023analytical, simmatis2022reliability
@@ -85,4 +85,4 @@ Here's the code for the last row of images above:
 ```
 {% endraw %}
 
--->
+--->
