@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://slp.utoronto.ca/faculty/yana-yunusova/speech-production-lab/'>University of Toronto</a>.
 
